@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bunk_recorder</string>
+    <string name="bunk_title_hint">Enter a day of week.</string>
+    <string name="bunk_title_label">Day</string>
+    <string name="bunk_details_label">Reason of bunk</string>
+    <string name="bunk_solved_label">Did bunk</string>
+</resources>
